@@ -1,4 +1,4 @@
-public class desafioaula {
+public class desafioaula1 {
     public static void main(String[] args) {
         System.out.println("Nome:");
         System.out.println("Cidade:");
